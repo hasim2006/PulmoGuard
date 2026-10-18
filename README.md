@@ -206,3 +206,4 @@ If you use PulmoGuard or the curated research compendium in your work, please ci
 <div align="center">
 Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 </div>
+<!-- app_perf_opt_1: perf(vision): optimize bilinear interpolation during radiograph downsampling -->
