@@ -207,3 +207,4 @@ If you use PulmoGuard or the curated research compendium in your work, please ci
 Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 </div>
 <!-- app_perf_opt_1: perf(vision): optimize bilinear interpolation during radiograph downsampling -->
+<!-- app_dpi_scaling: refactor(gui): enhance high-DPI scaling flags for 4K medical displays -->
