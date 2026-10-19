@@ -208,3 +208,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 </div>
 <!-- app_perf_opt_1: perf(vision): optimize bilinear interpolation during radiograph downsampling -->
 <!-- app_dpi_scaling: refactor(gui): enhance high-DPI scaling flags for 4K medical displays -->
+<!-- docs_lobar_cons: docs(clinical): elaborate lobar consolidation biomarkers and air bronchograms in README -->
