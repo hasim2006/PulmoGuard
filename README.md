@@ -211,3 +211,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- docs_lobar_cons: docs(clinical): elaborate lobar consolidation biomarkers and air bronchograms in README -->
 <!-- audio_thread_opt: feat(audio): optimize Windows SAPI speech latency and thread isolation -->
 <!-- test_forward_pass: test(offline): add automated forward-pass sanity validation test suite -->
+<!-- gui_color_contrast: style(gui): refine primary button hover state color contrast (#DF582C to #f06a3e) -->
