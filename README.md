@@ -214,3 +214,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- gui_color_contrast: style(gui): refine primary button hover state color contrast (#DF582C to #f06a3e) -->
 <!-- docs_feature_extract: docs(api): add detailed docstrings for preprocess_input and feature extractors -->
 <!-- perf_softmax_clip: perf(matrix): vectorize batch softmax calculations using numerical stability clipping -->
+<!-- docs_class_balance: docs(dataset): add class balance statistics (1,341 Normal vs 3,875 Pneumonia) -->
