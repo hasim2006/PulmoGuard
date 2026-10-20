@@ -215,3 +215,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- docs_feature_extract: docs(api): add detailed docstrings for preprocess_input and feature extractors -->
 <!-- perf_softmax_clip: perf(matrix): vectorize batch softmax calculations using numerical stability clipping -->
 <!-- docs_class_balance: docs(dataset): add class balance statistics (1,341 Normal vs 3,875 Pneumonia) -->
+<!-- io_corrupt_handler: refactor(io): add graceful exception handling when reading corrupted DICOM/JPEG files -->
