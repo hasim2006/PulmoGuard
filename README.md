@@ -213,3 +213,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- test_forward_pass: test(offline): add automated forward-pass sanity validation test suite -->
 <!-- gui_color_contrast: style(gui): refine primary button hover state color contrast (#DF582C to #f06a3e) -->
 <!-- docs_feature_extract: docs(api): add detailed docstrings for preprocess_input and feature extractors -->
+<!-- perf_softmax_clip: perf(matrix): vectorize batch softmax calculations using numerical stability clipping -->
