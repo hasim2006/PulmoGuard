@@ -218,3 +218,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- io_corrupt_handler: refactor(io): add graceful exception handling when reading corrupted DICOM/JPEG files -->
 <!-- gui_shadow_borders: style(gui): round borders and add drop shadow to radiograph preview frame -->
 <!-- docs_bibtex_cite: docs(citations): add Kermany et al. BibTeX citation snippet in root README -->
+<!-- perf_fp32_weights: perf(weights): compress serialized weight matrix using fp32 precision casting -->
