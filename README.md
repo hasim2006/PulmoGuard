@@ -221,3 +221,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- perf_fp32_weights: perf(weights): compress serialized weight matrix using fp32 precision casting -->
 <!-- gui_confidence_badge: feat(gui): display dynamic confidence percentages on diagnostic result cards -->
 <!-- docs_ascii_arch: docs(architecture): format ASCII system architecture and multi-tier pipeline flowchart -->
+<!-- test_latency_bench: test(benchmark): benchmark offline inference latency to verify < 15ms execution -->
