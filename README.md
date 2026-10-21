@@ -219,3 +219,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- gui_shadow_borders: style(gui): round borders and add drop shadow to radiograph preview frame -->
 <!-- docs_bibtex_cite: docs(citations): add Kermany et al. BibTeX citation snippet in root README -->
 <!-- perf_fp32_weights: perf(weights): compress serialized weight matrix using fp32 precision casting -->
+<!-- gui_confidence_badge: feat(gui): display dynamic confidence percentages on diagnostic result cards -->
