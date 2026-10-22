@@ -226,3 +226,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- refactor_path_anchor: refactor(paths): enforce absolute path resolution anchoring to __file__ -->
 <!-- docs_domain2_notes: docs(research): expand Domain 02 antimicrobial synergy and beta-lactamase notes -->
 <!-- feat_qmessagebox_ux: feat(ux): add native Windows QMessageBox notifications for diagnostic results -->
+<!-- docs_launcher_guide: docs(quickstart): add step-by-step 1-click desktop launcher troubleshooting guide -->
