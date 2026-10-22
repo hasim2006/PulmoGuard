@@ -224,3 +224,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- test_latency_bench: test(benchmark): benchmark offline inference latency to verify < 15ms execution -->
 <!-- style_teal_theme: style(theme): enhance dark medical teal (#035874) visual palette aesthetic -->
 <!-- refactor_path_anchor: refactor(paths): enforce absolute path resolution anchoring to __file__ -->
+<!-- docs_domain2_notes: docs(research): expand Domain 02 antimicrobial synergy and beta-lactamase notes -->
