@@ -223,3 +223,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- docs_ascii_arch: docs(architecture): format ASCII system architecture and multi-tier pipeline flowchart -->
 <!-- test_latency_bench: test(benchmark): benchmark offline inference latency to verify < 15ms execution -->
 <!-- style_teal_theme: style(theme): enhance dark medical teal (#035874) visual palette aesthetic -->
+<!-- refactor_path_anchor: refactor(paths): enforce absolute path resolution anchoring to __file__ -->
