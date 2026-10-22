@@ -225,3 +225,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- style_teal_theme: style(theme): enhance dark medical teal (#035874) visual palette aesthetic -->
 <!-- refactor_path_anchor: refactor(paths): enforce absolute path resolution anchoring to __file__ -->
 <!-- docs_domain2_notes: docs(research): expand Domain 02 antimicrobial synergy and beta-lactamase notes -->
+<!-- feat_qmessagebox_ux: feat(ux): add native Windows QMessageBox notifications for diagnostic results -->
