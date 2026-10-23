@@ -228,3 +228,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- feat_qmessagebox_ux: feat(ux): add native Windows QMessageBox notifications for diagnostic results -->
 <!-- docs_launcher_guide: docs(quickstart): add step-by-step 1-click desktop launcher troubleshooting guide -->
 <!-- refactor_dim_assert: refactor(validation): add input dimension assertion (48x48x1) before matrix dot product -->
+<!-- docs_badges_embed: docs(badges): embed GitHub workflow and Python compatibility shields in README -->
