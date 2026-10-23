@@ -4,7 +4,7 @@
 ### *An Edge-Native Deep Learning System for Clinical Chest Radiography*
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![GUI Framework](https://img.shields.io/badge/GUI-PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
+(https://riverbankcomputing.com/software/pyqt/)
 [![Architecture](https://img.shields.io/badge/Model-VGG16%20%2B%20Edge%20MLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://keras.io/)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle%20Chest%20X--Ray-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 [![Offline Ready](https://img.shields.io/badge/Offline-100%25%20Air--Gapped-success?style=for-the-badge&logo=windows&logoColor=white)](#-offline-quickstart)
