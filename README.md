@@ -229,3 +229,4 @@ Developed with ❤️ by <b>Hasim</b> | Academic Capstone Project
 <!-- docs_launcher_guide: docs(quickstart): add step-by-step 1-click desktop launcher troubleshooting guide -->
 <!-- refactor_dim_assert: refactor(validation): add input dimension assertion (48x48x1) before matrix dot product -->
 <!-- docs_badges_embed: docs(badges): embed GitHub workflow and Python compatibility shields in README -->
+<!-- release_v1_rc1: release: bump PulmoGuard version to v1.0.0-rc1 -->
