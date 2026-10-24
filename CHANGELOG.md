@@ -12,3 +12,4 @@
 - **[2026-10-24 20:37]** `docs(biology): annotate alveolar exudate accumulation and fluid density absorption physics`
 - **[2026-10-24 21:51]** `feat(data): add automated class label mapping for Normal (0), Bacteria (1), Virus (2)`
 - **[2026-10-24 23:05]** `refactor(data): enforce stratified 80-20 training/validation split preservation`
+- **[2026-10-25 00:20]** `test(data): verify zero data leakage between train, val, and unseen test cohort`
