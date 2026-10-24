@@ -8,3 +8,4 @@
 - **[2026-10-24 15:40]** `test(io): validate DICOM and 8-bit PNG color space conversion routines`
 - **[2026-10-24 16:55]** `perf(data): vectorize channel tensor permute operations from HWC to CHW format`
 - **[2026-10-24 18:09]** `feat(data): implement random horizontal flip augmentation with fixed seed reproducibility`
+- **[2026-10-24 19:23]** `refactor(preprocess): isolate contrast limited adaptive histogram equalization (CLAHE) kernel`
