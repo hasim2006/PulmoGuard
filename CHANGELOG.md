@@ -9,3 +9,4 @@
 - **[2026-10-24 16:55]** `perf(data): vectorize channel tensor permute operations from HWC to CHW format`
 - **[2026-10-24 18:09]** `feat(data): implement random horizontal flip augmentation with fixed seed reproducibility`
 - **[2026-10-24 19:23]** `refactor(preprocess): isolate contrast limited adaptive histogram equalization (CLAHE) kernel`
+- **[2026-10-24 20:37]** `docs(biology): annotate alveolar exudate accumulation and fluid density absorption physics`
