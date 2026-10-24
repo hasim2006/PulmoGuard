@@ -1,17 +1,22 @@
-# ==============================================================================
 # PulmoGuard Dependencies
-# ==============================================================================
-# Core GUI & Offline Speech Engine
-PyQt5>=5.15.0
-pillow>=9.0.0
-numpy>=1.20.0
-pywin32>=300; platform_system == "Windows"
+# Core Deep Learning & Computer Vision
+torch>=2.0.0
+torchvision>=0.15.0
+PyQt5>=5.15.9
+opencv-python>=4.8.0
+pillow>=9.5.0
+numpy>=1.24.0
 
-# Data Analysis & Visualizations
-matplotlib>=3.5.0
-scipy>=1.9.0
+# Scientific Computing & Metrics
+scipy>=1.10.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
 
-# Optional: Deep Learning Re-training (VGG16 / Keras)
-# Note: PulmoGuard includes a pre-trained offline neural network (offline_model.npz)
-# that runs with zero external framework dependencies!
-# tensorflow>=2.10.0
+# Academic Presentation & Report Generation
+python-docx>=1.1.0
+python-pptx>=1.0.0
+
+# Audio & Media Utilities
+imageio>=2.30.0
+imageio-ffmpeg>=0.4.8
+pywin32>=306
