@@ -10,3 +10,4 @@
 - **[2026-10-24 18:09]** `feat(data): implement random horizontal flip augmentation with fixed seed reproducibility`
 - **[2026-10-24 19:23]** `refactor(preprocess): isolate contrast limited adaptive histogram equalization (CLAHE) kernel`
 - **[2026-10-24 20:37]** `docs(biology): annotate alveolar exudate accumulation and fluid density absorption physics`
+- **[2026-10-24 21:51]** `feat(data): add automated class label mapping for Normal (0), Bacteria (1), Virus (2)`
