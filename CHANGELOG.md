@@ -14,3 +14,4 @@
 - **[2026-10-24 23:05]** `refactor(data): enforce stratified 80-20 training/validation split preservation`
 - **[2026-10-25 00:20]** `test(data): verify zero data leakage between train, val, and unseen test cohort`
 - **[2026-10-25 01:34]** `perf(data): cache preprocessed validation tensors in local RAM for rapid epoch evaluation`
+- **[2026-10-25 02:48]** `refactor(data): sanitize file path resolution across Windows and POSIX environments`
