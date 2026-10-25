@@ -18,3 +18,4 @@
 - **[2026-10-25 04:02]** `feat(preprocess): implement dynamic min-max intensity scaling prior to normalization`
 - **[2026-10-25 05:16]** `docs(clinical): contrast lobar consolidation radiopacity against interstitial reticular haziness`
 - **[2026-10-25 06:30]** `refactor(data): add automated detection of corrupted grayscale radiograph slices`
+- **[2026-10-25 07:45]** `feat(preprocess): add configurable CLAHE clipLimit (2.0) and tileGridSize (8x8)`
