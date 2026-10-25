@@ -17,3 +17,4 @@
 - **[2026-10-25 02:48]** `refactor(data): sanitize file path resolution across Windows and POSIX environments`
 - **[2026-10-25 04:02]** `feat(preprocess): implement dynamic min-max intensity scaling prior to normalization`
 - **[2026-10-25 05:16]** `docs(clinical): contrast lobar consolidation radiopacity against interstitial reticular haziness`
+- **[2026-10-25 06:30]** `refactor(data): add automated detection of corrupted grayscale radiograph slices`
