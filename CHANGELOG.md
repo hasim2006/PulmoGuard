@@ -22,3 +22,4 @@
 - **[2026-10-25 08:59]** `test(preprocess): assert tensor output shape invariance [B, 3, 224, 224]`
 - **[2026-10-25 10:13]** `perf(io): parallelize image batch loading using PyTorch DataLoader multi-processing`
 - **[2026-10-25 11:27]** `docs(research): summarize Kermany et al. OCT vs Chest X-Ray transfer learning findings`
+- **[2026-10-25 12:41]** `feat(data): implement batch class balance sampler to mitigate pneumonia class imbalance`
