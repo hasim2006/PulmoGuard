@@ -24,3 +24,4 @@
 - **[2026-10-25 11:27]** `docs(research): summarize Kermany et al. OCT vs Chest X-Ray transfer learning findings`
 - **[2026-10-25 12:41]** `feat(data): implement batch class balance sampler to mitigate pneumonia class imbalance`
 - **[2026-10-25 13:56]** `refactor(data): optimize PIL to NumPy array buffer zero-copy memory transfers`
+- **[2026-10-25 15:10]** `test(data): assert valid pixel intensity ranges [-2.5, +2.5] post-standardization`
