@@ -28,3 +28,4 @@
 - **[2026-10-25 16:24]** `feat(model): instantiate ResNet-18 residual convolutional network architecture`
 - **[2026-10-25 17:38]** `refactor(model): adapt initial 7x7 conv stem with stride 2 for radiographic feature extraction`
 - **[2026-10-25 18:52]** `feat(model): integrate max-pooling layer with 3x3 kernel and stride 2 for spatial reduction`
+- **[2026-10-25 20:06]** `feat(layers): implement BasicBlock residual unit with 3x3 convolutions and batch normalization`
