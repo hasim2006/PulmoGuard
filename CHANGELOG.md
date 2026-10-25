@@ -25,3 +25,4 @@
 - **[2026-10-25 12:41]** `feat(data): implement batch class balance sampler to mitigate pneumonia class imbalance`
 - **[2026-10-25 13:56]** `refactor(data): optimize PIL to NumPy array buffer zero-copy memory transfers`
 - **[2026-10-25 15:10]** `test(data): assert valid pixel intensity ranges [-2.5, +2.5] post-standardization`
+- **[2026-10-25 16:24]** `feat(model): instantiate ResNet-18 residual convolutional network architecture`
