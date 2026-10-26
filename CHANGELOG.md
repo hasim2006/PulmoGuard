@@ -48,3 +48,4 @@
 - **[2026-10-26 17:07]** `refactor(model): isolate feature extractor backbone from classification projection head`
 - **[2026-10-26 18:22]** `docs(model): document 11.2 million trainable parameter distribution across residual stages`
 - **[2026-10-26 19:36]** `feat(model): add fallback weight integrity hash verification upon model initialization`
+- **[2026-10-26 20:50]** `refactor(model): suppress PyTorch jit deprecation warnings for production stability`
