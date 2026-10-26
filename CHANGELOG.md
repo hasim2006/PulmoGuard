@@ -36,3 +36,4 @@
 - **[2026-10-26 02:17]** `feat(stage3): configure Layer 3 with 256 feature channels for parenchymal pattern recognition`
 - **[2026-10-26 03:31]** `feat(stage4): configure Layer 4 with 512 feature channels for pathological consolidation mapping`
 - **[2026-10-26 04:46]** `refactor(model): replace 1000-class ImageNet head with 3-class pulmonary diagnostic linear layer`
+- **[2026-10-26 06:00]** `perf(model): fuse Conv2d and BatchNorm2d layers during inference for latency optimization`
