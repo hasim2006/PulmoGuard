@@ -51,3 +51,4 @@
 - **[2026-10-26 20:50]** `refactor(model): suppress PyTorch jit deprecation warnings for production stability`
 - **[2026-10-26 22:04]** `test(model): verify deterministic inference reproducibility across repeated runs`
 - **[2026-10-26 23:18]** `feat(model): implement adaptive average pooling layer yielding fixed 512-dim feature vectors`
+- **[2026-10-27 00:32]** `docs(model): add comparison table between VGG-16 (138M params) and ResNet-18 (11.2M params)`
