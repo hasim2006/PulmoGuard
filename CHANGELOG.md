@@ -38,3 +38,4 @@
 - **[2026-10-26 04:46]** `refactor(model): replace 1000-class ImageNet head with 3-class pulmonary diagnostic linear layer`
 - **[2026-10-26 06:00]** `perf(model): fuse Conv2d and BatchNorm2d layers during inference for latency optimization`
 - **[2026-10-26 07:14]** `feat(model): register forward execution hooks on Layer 4 for feature activation extraction`
+- **[2026-10-26 08:28]** `refactor(model): add retain_grad() hook on Layer 4 feature maps for Grad-CAM compatibility`
