@@ -45,3 +45,4 @@
 - **[2026-10-26 13:25]** `refactor(model): enable torch.no_grad() inference context reducing memory footprint to < 10MB`
 - **[2026-10-26 14:39]** `feat(model): add dynamic CPU thread allocation for low-power edge computer execution`
 - **[2026-10-26 15:53]** `test(model): benchmark forward-pass inference latency across 100 iterations (< 20ms)`
+- **[2026-10-26 17:07]** `refactor(model): isolate feature extractor backbone from classification projection head`
