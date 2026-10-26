@@ -54,3 +54,4 @@
 - **[2026-10-27 00:32]** `docs(model): add comparison table between VGG-16 (138M params) and ResNet-18 (11.2M params)`
 - **[2026-10-27 01:47]** `refactor(model): enforce float32 precision across all convolutional weight tensors`
 - **[2026-10-27 03:01]** `test(model): confirm zero gradient accumulation during standard prediction evaluations`
+- **[2026-10-27 04:15]** `perf(model): benchmark peak RAM usage maintaining < 120MB active process memory`
