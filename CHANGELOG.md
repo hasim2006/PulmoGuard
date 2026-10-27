@@ -58,3 +58,4 @@
 - **[2026-10-27 05:29]** `feat(loss): implement class-weighted cross-entropy loss addressing asymmetric clinical risk`
 - **[2026-10-27 06:43]** `refactor(safety): formalize asymmetric decision boundary penalizing false negative triage`
 - **[2026-10-27 07:57]** `feat(triage): calibrate normal threshold cutoff to P(Normal) > 0.15 for high sensitivity`
+- **[2026-10-27 09:12]** `test(eval): evaluate calibrated model against 624-image gold standard test cohort`
