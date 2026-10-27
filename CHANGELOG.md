@@ -64,3 +64,4 @@
 - **[2026-10-27 12:54]** `refactor(eval): generate confusion matrix isolating bacterial vs viral misclassifications`
 - **[2026-10-27 14:08]** `feat(triage): implement 3-tier clinical urgency rating (Normal, Moderate Viral, Urgent Bacterial)`
 - **[2026-10-27 15:23]** `refactor(metrics): calculate Area Under ROC Curve (AUC) achieving 0.968 for pneumonia triage`
+- **[2026-10-27 16:37]** `docs(clinical): analyze the 2 false negative outlier radiographs (sub-centimeter micro-foci)`
