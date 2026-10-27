@@ -62,3 +62,4 @@
 - **[2026-10-27 10:26]** `docs(metrics): verify 98.97% sensitivity detecting 388 out of 390 acute pneumonia cases`
 - **[2026-10-27 11:40]** `docs(metrics): record 88.03% specificity correctly identifying 206 out of 234 normal scans`
 - **[2026-10-27 12:54]** `refactor(eval): generate confusion matrix isolating bacterial vs viral misclassifications`
+- **[2026-10-27 14:08]** `feat(triage): implement 3-tier clinical urgency rating (Normal, Moderate Viral, Urgent Bacterial)`
