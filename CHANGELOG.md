@@ -73,3 +73,4 @@
 - **[2026-10-28 00:02]** `refactor(triage): format structured JSON diagnostic telemetry output for hospital EMR integration`
 - **[2026-10-28 01:16]** `test(safety): test robustness against extreme contrast and underexposed chest radiographs`
 - **[2026-10-28 02:30]** `docs(metrics): plot precision-recall curves demonstrating high recall operating region`
+- **[2026-10-28 03:44]** `refactor(triage): decouple probability calculation from visual GUI rendering logic`
