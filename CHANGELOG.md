@@ -70,3 +70,4 @@
 - **[2026-10-27 20:19]** `refactor(metrics): compute positive predictive value (PPV) and negative predictive value (NPV)`
 - **[2026-10-27 21:33]** `docs(benchmarks): document comparative performance against Cell 2018 human radiologist cohort`
 - **[2026-10-27 22:48]** `feat(triage): add automated fallback flag when all class probabilities remain below 0.40`
+- **[2026-10-28 00:02]** `refactor(triage): format structured JSON diagnostic telemetry output for hospital EMR integration`
