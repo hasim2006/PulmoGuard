@@ -72,3 +72,4 @@
 - **[2026-10-27 22:48]** `feat(triage): add automated fallback flag when all class probabilities remain below 0.40`
 - **[2026-10-28 00:02]** `refactor(triage): format structured JSON diagnostic telemetry output for hospital EMR integration`
 - **[2026-10-28 01:16]** `test(safety): test robustness against extreme contrast and underexposed chest radiographs`
+- **[2026-10-28 02:30]** `docs(metrics): plot precision-recall curves demonstrating high recall operating region`
