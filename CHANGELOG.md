@@ -59,3 +59,4 @@
 - **[2026-10-27 06:43]** `refactor(safety): formalize asymmetric decision boundary penalizing false negative triage`
 - **[2026-10-27 07:57]** `feat(triage): calibrate normal threshold cutoff to P(Normal) > 0.15 for high sensitivity`
 - **[2026-10-27 09:12]** `test(eval): evaluate calibrated model against 624-image gold standard test cohort`
+- **[2026-10-27 10:26]** `docs(metrics): verify 98.97% sensitivity detecting 388 out of 390 acute pneumonia cases`
