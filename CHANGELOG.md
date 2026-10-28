@@ -92,3 +92,4 @@
 - **[2026-10-28 23:31]** `test(xai): verify Grad-CAM heatmaps localize right lower lobe bacterial consolidation accurately`
 - **[2026-10-29 00:45]** `test(xai): confirm diffuse bilateral activation on viral interstitial pneumonia test cases`
 - **[2026-10-29 01:59]** `refactor(xai): eliminate memory leaks by clearing gradient tensors post-visualization`
+- **[2026-10-29 03:14]** `feat(xai): add bounding box derivation highlighting maximum attention centroid coordinates`
