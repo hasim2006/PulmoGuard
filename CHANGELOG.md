@@ -82,3 +82,4 @@
 - **[2026-10-28 11:09]** `docs(metrics): publish comprehensive clinical sensitivity and specificity benchmark table`
 - **[2026-10-28 12:24]** `feat(xai): implement Gradient-Weighted Class Activation Mapping (Grad-CAM) engine`
 - **[2026-10-28 13:38]** `refactor(xai): extract target class score gradients with respect to Layer 4 feature maps`
+- **[2026-10-28 14:52]** `feat(xai): compute global average pooling over gradient tensors to yield channel importance weights`
