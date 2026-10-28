@@ -83,3 +83,4 @@
 - **[2026-10-28 12:24]** `feat(xai): implement Gradient-Weighted Class Activation Mapping (Grad-CAM) engine`
 - **[2026-10-28 13:38]** `refactor(xai): extract target class score gradients with respect to Layer 4 feature maps`
 - **[2026-10-28 14:52]** `feat(xai): compute global average pooling over gradient tensors to yield channel importance weights`
+- **[2026-10-28 16:06]** `feat(xai): calculate weighted linear combination of forward activation maps`
