@@ -77,3 +77,4 @@
 - **[2026-10-28 04:58]** `test(metrics): verify zero NaN or Inf occurrences during softmax probability normalization`
 - **[2026-10-28 06:13]** `feat(triage): embed clinical recommendation string based on etiological classification`
 - **[2026-10-28 07:27]** `docs(clinical): document why bacterial lobar consolidation warrants immediate empiric ampicillin`
+- **[2026-10-28 08:41]** `refactor(triage): format confidence percentage string output with single decimal precision`
