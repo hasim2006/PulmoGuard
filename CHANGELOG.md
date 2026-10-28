@@ -84,3 +84,4 @@
 - **[2026-10-28 13:38]** `refactor(xai): extract target class score gradients with respect to Layer 4 feature maps`
 - **[2026-10-28 14:52]** `feat(xai): compute global average pooling over gradient tensors to yield channel importance weights`
 - **[2026-10-28 16:06]** `feat(xai): calculate weighted linear combination of forward activation maps`
+- **[2026-10-28 17:20]** `refactor(xai): apply rectified linear unit (ReLU) filtering out negative anatomical features`
