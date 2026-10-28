@@ -76,3 +76,4 @@
 - **[2026-10-28 03:44]** `refactor(triage): decouple probability calculation from visual GUI rendering logic`
 - **[2026-10-28 04:58]** `test(metrics): verify zero NaN or Inf occurrences during softmax probability normalization`
 - **[2026-10-28 06:13]** `feat(triage): embed clinical recommendation string based on etiological classification`
+- **[2026-10-28 07:27]** `docs(clinical): document why bacterial lobar consolidation warrants immediate empiric ampicillin`
