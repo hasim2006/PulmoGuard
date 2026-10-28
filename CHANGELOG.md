@@ -80,3 +80,4 @@
 - **[2026-10-28 08:41]** `refactor(triage): format confidence percentage string output with single decimal precision`
 - **[2026-10-28 09:55]** `test(triage): confirm viral interstitial infiltrates trigger supportive oxygen guidance`
 - **[2026-10-28 11:09]** `docs(metrics): publish comprehensive clinical sensitivity and specificity benchmark table`
+- **[2026-10-28 12:24]** `feat(xai): implement Gradient-Weighted Class Activation Mapping (Grad-CAM) engine`
