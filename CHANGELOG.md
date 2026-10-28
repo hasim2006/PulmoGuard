@@ -75,3 +75,4 @@
 - **[2026-10-28 02:30]** `docs(metrics): plot precision-recall curves demonstrating high recall operating region`
 - **[2026-10-28 03:44]** `refactor(triage): decouple probability calculation from visual GUI rendering logic`
 - **[2026-10-28 04:58]** `test(metrics): verify zero NaN or Inf occurrences during softmax probability normalization`
+- **[2026-10-28 06:13]** `feat(triage): embed clinical recommendation string based on etiological classification`
