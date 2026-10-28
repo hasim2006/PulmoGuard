@@ -88,3 +88,4 @@
 - **[2026-10-28 18:34]** `feat(xai): normalize heat map intensity between [0.0, 1.0] for consistent visual rendering`
 - **[2026-10-28 19:49]** `feat(xai): upsample coarse 7x7 attention grid to 224x224 using bilinear interpolation`
 - **[2026-10-28 21:03]** `refactor(xai): convert normalized heatmap into OpenCV COLORMAP_JET RGB visual gradient`
+- **[2026-10-28 22:17]** `feat(xai): blend synthetic jet heatmap with original grayscale radiograph (alpha=0.45, beta=0.55)`
