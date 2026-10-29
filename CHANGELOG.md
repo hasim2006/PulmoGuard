@@ -111,3 +111,4 @@
 - **[2026-10-29 23:00]** `test(xai): confirm normal radiographs produce diffuse low-amplitude baseline heatmaps`
 - **[2026-10-30 00:15]** `refactor(xai): standardize output heatmap tensor format to uint8 [0, 255] RGB`
 - **[2026-10-30 01:29]** `feat(radiology): implement Contrast Limited Adaptive Histogram Equalization (CLAHE) toolkit`
+- **[2026-10-30 02:43]** `refactor(radiology): configure local contextual grid (8x8) for localized contrast stretching`
