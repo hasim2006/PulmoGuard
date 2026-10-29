@@ -102,3 +102,4 @@
 - **[2026-10-29 11:53]** `feat(xai): add heatmap opacity slider parameter for radiologist preference tuning`
 - **[2026-10-29 13:07]** `test(xai): test Grad-CAM stability on inverted negative radiographs`
 - **[2026-10-29 14:21]** `refactor(xai): clamp activation values to eliminate visual artifacts on image borders`
+- **[2026-10-29 15:35]** `docs(xai): document solving the medical AI 'black-box' dilemma in clinical governance`
