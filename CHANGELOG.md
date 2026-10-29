@@ -105,3 +105,4 @@
 - **[2026-10-29 15:35]** `docs(xai): document solving the medical AI 'black-box' dilemma in clinical governance`
 - **[2026-10-29 16:50]** `feat(xai): save raw attention matrix alongside prediction telemetry for audit logging`
 - **[2026-10-29 18:04]** `test(xai): confirm Grad-CAM works seamlessly on CPU without requiring CUDA device memory`
+- **[2026-10-29 19:18]** `refactor(xai): vectorize pixel alpha blending using NumPy broadcasting operations`
