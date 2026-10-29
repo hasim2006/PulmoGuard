@@ -96,3 +96,4 @@
 - **[2026-10-29 04:28]** `docs(xai): write comprehensive mathematical breakdown of Grad-CAM equations in documentation`
 - **[2026-10-29 05:42]** `refactor(xai): optimize heatmap generation pipeline to execute in under 8ms`
 - **[2026-10-29 06:56]** `test(xai): verify attention focus remains on lung parenchyma rather than peripheral bone markers`
+- **[2026-10-29 08:10]** `feat(xai): support custom colormap selection (Jet, Turbo, Viridis, Inferno) in engine`
