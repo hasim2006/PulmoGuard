@@ -110,3 +110,4 @@
 - **[2026-10-29 21:46]** `feat(xai): add automated high-attention area percentage coverage calculation`
 - **[2026-10-29 23:00]** `test(xai): confirm normal radiographs produce diffuse low-amplitude baseline heatmaps`
 - **[2026-10-30 00:15]** `refactor(xai): standardize output heatmap tensor format to uint8 [0, 255] RGB`
+- **[2026-10-30 01:29]** `feat(radiology): implement Contrast Limited Adaptive Histogram Equalization (CLAHE) toolkit`
