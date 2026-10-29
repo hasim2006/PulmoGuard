@@ -98,3 +98,4 @@
 - **[2026-10-29 06:56]** `test(xai): verify attention focus remains on lung parenchyma rather than peripheral bone markers`
 - **[2026-10-29 08:10]** `feat(xai): support custom colormap selection (Jet, Turbo, Viridis, Inferno) in engine`
 - **[2026-10-29 09:24]** `refactor(xai): ensure backward hooks safely deregister on window close or exception`
+- **[2026-10-29 10:39]** `docs(xai): provide visual side-by-side comparison of Grad-CAM against radiologist annotations`
