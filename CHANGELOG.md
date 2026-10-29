@@ -99,3 +99,4 @@
 - **[2026-10-29 08:10]** `feat(xai): support custom colormap selection (Jet, Turbo, Viridis, Inferno) in engine`
 - **[2026-10-29 09:24]** `refactor(xai): ensure backward hooks safely deregister on window close or exception`
 - **[2026-10-29 10:39]** `docs(xai): provide visual side-by-side comparison of Grad-CAM against radiologist annotations`
+- **[2026-10-29 11:53]** `feat(xai): add heatmap opacity slider parameter for radiologist preference tuning`
