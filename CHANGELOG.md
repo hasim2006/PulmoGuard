@@ -120,3 +120,4 @@
 - **[2026-10-30 10:08]** `refactor(radiology): preserve original bit-depth during dynamic range transformations`
 - **[2026-10-30 11:22]** `docs(radiology): write guide for detecting subtle retrodiaphragmatic infiltrates with inversion`
 - **[2026-10-30 12:36]** `feat(radiology): implement edge enhancement convolution kernel for rib silhouette separation`
+- **[2026-10-30 13:51]** `test(radiology): verify CLAHE prevents noise over-amplification in clear lung zones`
