@@ -126,3 +126,4 @@
 - **[2026-10-30 17:33]** `test(radiology): confirm zero latency lag during real-time image filtering adjustments`
 - **[2026-10-30 18:47]** `docs(radiology): document radiological criteria for lobar vs diffuse bronchopneumonia`
 - **[2026-10-30 20:01]** `refactor(radiology): enforce thread-safe image buffer updates during active rendering`
+- **[2026-10-30 21:16]** `feat(radiology): add visual indicator badge displaying active filter modes on canvas`
