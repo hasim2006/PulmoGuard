@@ -114,3 +114,4 @@
 - **[2026-10-30 02:43]** `refactor(radiology): configure local contextual grid (8x8) for localized contrast stretching`
 - **[2026-10-30 03:57]** `feat(radiology): implement inverted negative grayscale filter highlighting retrocardiac opacities`
 - **[2026-10-30 05:11]** `feat(radiology): add one-click reset mechanism restoring original raw radiograph state`
+- **[2026-10-30 06:25]** `refactor(radiology): optimize live filter toggles without triggering model re-inference`
