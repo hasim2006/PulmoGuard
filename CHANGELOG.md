@@ -117,3 +117,4 @@
 - **[2026-10-30 06:25]** `refactor(radiology): optimize live filter toggles without triggering model re-inference`
 - **[2026-10-30 07:40]** `test(radiology): evaluate CLAHE enhancement on low-dose pediatric chest radiographs`
 - **[2026-10-30 08:54]** `feat(radiology): add histogram calculation pipeline for image dynamic range assessment`
+- **[2026-10-30 10:08]** `refactor(radiology): preserve original bit-depth during dynamic range transformations`
