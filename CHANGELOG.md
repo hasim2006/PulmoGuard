@@ -127,3 +127,4 @@
 - **[2026-10-30 18:47]** `docs(radiology): document radiological criteria for lobar vs diffuse bronchopneumonia`
 - **[2026-10-30 20:01]** `refactor(radiology): enforce thread-safe image buffer updates during active rendering`
 - **[2026-10-30 21:16]** `feat(radiology): add visual indicator badge displaying active filter modes on canvas`
+- **[2026-10-30 22:30]** `test(radiology): benchmark CLAHE execution latency achieving < 3ms on 1024x1024 scans`
