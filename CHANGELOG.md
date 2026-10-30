@@ -123,3 +123,4 @@
 - **[2026-10-30 13:51]** `test(radiology): verify CLAHE prevents noise over-amplification in clear lung zones`
 - **[2026-10-30 15:05]** `refactor(radiology): integrate OpenCV image processing routines with PyQt5 QImage buffers`
 - **[2026-10-30 16:19]** `feat(radiology): add brightness and contrast fine-tuning sliders in radiologist control panel`
+- **[2026-10-30 17:33]** `test(radiology): confirm zero latency lag during real-time image filtering adjustments`
