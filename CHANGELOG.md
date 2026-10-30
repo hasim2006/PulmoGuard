@@ -115,3 +115,4 @@
 - **[2026-10-30 03:57]** `feat(radiology): implement inverted negative grayscale filter highlighting retrocardiac opacities`
 - **[2026-10-30 05:11]** `feat(radiology): add one-click reset mechanism restoring original raw radiograph state`
 - **[2026-10-30 06:25]** `refactor(radiology): optimize live filter toggles without triggering model re-inference`
+- **[2026-10-30 07:40]** `test(radiology): evaluate CLAHE enhancement on low-dose pediatric chest radiographs`
