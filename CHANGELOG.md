@@ -129,3 +129,4 @@
 - **[2026-10-30 21:16]** `feat(radiology): add visual indicator badge displaying active filter modes on canvas`
 - **[2026-10-30 22:30]** `test(radiology): benchmark CLAHE execution latency achieving < 3ms on 1024x1024 scans`
 - **[2026-10-30 23:44]** `refactor(radiology): handle non-square aspect ratio radiographs without anatomical distortion`
+- **[2026-10-31 00:58]** `docs(radiology): compile diagnostic checklist for pediatric anterior-posterior projections`
