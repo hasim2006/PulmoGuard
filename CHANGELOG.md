@@ -124,3 +124,4 @@
 - **[2026-10-30 15:05]** `refactor(radiology): integrate OpenCV image processing routines with PyQt5 QImage buffers`
 - **[2026-10-30 16:19]** `feat(radiology): add brightness and contrast fine-tuning sliders in radiologist control panel`
 - **[2026-10-30 17:33]** `test(radiology): confirm zero latency lag during real-time image filtering adjustments`
+- **[2026-10-30 18:47]** `docs(radiology): document radiological criteria for lobar vs diffuse bronchopneumonia`
