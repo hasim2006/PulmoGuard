@@ -131,3 +131,4 @@
 - **[2026-10-30 23:44]** `refactor(radiology): handle non-square aspect ratio radiographs without anatomical distortion`
 - **[2026-10-31 00:58]** `docs(radiology): compile diagnostic checklist for pediatric anterior-posterior projections`
 - **[2026-10-31 02:12]** `feat(radiology): support direct export of CLAHE-enhanced radiographs to local disk`
+- **[2026-10-31 03:26]** `test(radiology): verify negative filter preserves fine bronchial bifurcation geometry`
