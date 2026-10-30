@@ -119,3 +119,4 @@
 - **[2026-10-30 08:54]** `feat(radiology): add histogram calculation pipeline for image dynamic range assessment`
 - **[2026-10-30 10:08]** `refactor(radiology): preserve original bit-depth during dynamic range transformations`
 - **[2026-10-30 11:22]** `docs(radiology): write guide for detecting subtle retrodiaphragmatic infiltrates with inversion`
+- **[2026-10-30 12:36]** `feat(radiology): implement edge enhancement convolution kernel for rib silhouette separation`
