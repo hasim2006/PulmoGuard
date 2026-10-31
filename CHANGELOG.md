@@ -152,3 +152,4 @@
 - **[2026-11-01 01:42]** `test(ui): verify responsive UI layout resizing across diverse monitor screen resolutions`
 - **[2026-11-01 02:56]** `refactor(ui): move intensive inference and batch scanning tasks to background QThread workers`
 - **[2026-11-01 04:10]** `feat(ui): add diagnostic history table tracking recent scans within the current session`
+- **[2026-11-01 05:24]** `refactor(ui): add keyboard shortcuts for quick radiologist actions (Ctrl+O, Space, Ctrl+P)`
