@@ -134,3 +134,4 @@
 - **[2026-10-31 03:26]** `test(radiology): verify negative filter preserves fine bronchial bifurcation geometry`
 - **[2026-10-31 04:41]** `refactor(radiology): cache filtered image states in memory for instant undo/redo actions`
 - **[2026-10-31 05:55]** `docs(radiology): add clinical image gallery demonstrating enhancement efficacy`
+- **[2026-10-31 07:09]** `feat(radiology): add automatic exposure warning for heavily underexposed or overexposed X-rays`
