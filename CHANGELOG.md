@@ -150,3 +150,4 @@
 - **[2026-10-31 23:13]** `refactor(ui): add high-DPI scaling flags ensuring crisp rendering on 4K medical displays`
 - **[2026-11-01 00:27]** `style(ui): implement smooth hover transitions and rounded corners on all control buttons`
 - **[2026-11-01 01:42]** `test(ui): verify responsive UI layout resizing across diverse monitor screen resolutions`
+- **[2026-11-01 02:56]** `refactor(ui): move intensive inference and batch scanning tasks to background QThread workers`
