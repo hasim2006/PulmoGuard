@@ -142,3 +142,4 @@
 - **[2026-10-31 13:20]** `feat(ui): add color-coded triage status card (Red: Bacterial, Amber: Viral, Green: Normal)`
 - **[2026-10-31 14:34]** `feat(ui): display real-time class probability breakdown with visual horizontal gauges`
 - **[2026-10-31 15:48]** `feat(ui): integrate Windows Speech API (SAPI) for audible diagnostic voice narration`
+- **[2026-10-31 17:02]** `feat(batch): develop automated folder-level batch screening mode for hospital triage`
