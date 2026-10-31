@@ -151,3 +151,4 @@
 - **[2026-11-01 00:27]** `style(ui): implement smooth hover transitions and rounded corners on all control buttons`
 - **[2026-11-01 01:42]** `test(ui): verify responsive UI layout resizing across diverse monitor screen resolutions`
 - **[2026-11-01 02:56]** `refactor(ui): move intensive inference and batch scanning tasks to background QThread workers`
+- **[2026-11-01 04:10]** `feat(ui): add diagnostic history table tracking recent scans within the current session`
