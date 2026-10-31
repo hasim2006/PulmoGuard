@@ -138,3 +138,4 @@
 - **[2026-10-31 08:23]** `feat(ui): design modern dark biomedical aesthetic desktop interface using PyQt5`
 - **[2026-10-31 09:37]** `style(ui): apply deep navy (#0A1128, #111C38) background with cyber cyan (#00E5FF) accents`
 - **[2026-10-31 10:51]** `feat(ui): construct dual-canvas view for side-by-side raw X-ray and Grad-CAM inspection`
+- **[2026-10-31 12:06]** `feat(ui): implement drag-and-drop file ingestion supporting JPEG, PNG, and TIFF formats`
