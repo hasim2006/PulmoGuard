@@ -158,3 +158,4 @@
 - **[2026-11-01 09:07]** `feat(ui): add status bar displaying active model device, CPU latency, and memory footprint`
 - **[2026-11-01 10:21]** `refactor(report): style printable diagnostic report with clean clinical typography and borders`
 - **[2026-11-01 11:35]** `test(ui): confirm error dialogs handle missing image files or corrupt formats gracefully`
+- **[2026-11-01 12:49]** `feat(ui): add session audit log export tracking all diagnostic decisions and timestamps`
