@@ -155,3 +155,4 @@
 - **[2026-11-01 05:24]** `refactor(ui): add keyboard shortcuts for quick radiologist actions (Ctrl+O, Space, Ctrl+P)`
 - **[2026-11-01 06:38]** `test(batch): test batch screening pipeline on 100 test images completing in under 2 seconds`
 - **[2026-11-01 07:52]** `docs(ui): create annotated visual screenshot diagram of all GUI functional components`
+- **[2026-11-01 09:07]** `feat(ui): add status bar displaying active model device, CPU latency, and memory footprint`
