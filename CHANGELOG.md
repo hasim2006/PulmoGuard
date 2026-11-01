@@ -167,3 +167,4 @@
 - **[2026-11-01 20:14]** `docs(report): compile complete bibliography citing all 23 peer-reviewed Cell Press papers`
 - **[2026-11-01 21:28]** `docs(report): format statistical comparison tables validating ResNet-18 vs human radiologists`
 - **[2026-11-01 22:43]** `feat(report): develop automated Python script (generate_biology_report.py) to rebuild report`
+- **[2026-11-01 23:57]** `refactor(report): add custom styling helpers for tables, borders, callout boxes, and headers`
