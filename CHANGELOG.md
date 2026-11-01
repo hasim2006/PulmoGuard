@@ -157,3 +157,4 @@
 - **[2026-11-01 07:52]** `docs(ui): create annotated visual screenshot diagram of all GUI functional components`
 - **[2026-11-01 09:07]** `feat(ui): add status bar displaying active model device, CPU latency, and memory footprint`
 - **[2026-11-01 10:21]** `refactor(report): style printable diagnostic report with clean clinical typography and borders`
+- **[2026-11-01 11:35]** `test(ui): confirm error dialogs handle missing image files or corrupt formats gracefully`
