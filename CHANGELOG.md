@@ -182,3 +182,4 @@
 - **[2026-11-02 14:47]** `docs(presentation): build Slide 4 & 5 defining project motivation and technical milestones`
 - **[2026-11-02 16:01]** `docs(presentation): design Slide 6 & 7 with complete technical workflow and system architecture`
 - **[2026-11-02 17:15]** `docs(presentation): construct Slide 8 & 9 detailing image preprocessing and ResNet-18 backbone`
+- **[2026-11-02 18:29]** `docs(presentation): design Slide 10 & 11 illustrating 3-class disease triage and calibrated safety`
