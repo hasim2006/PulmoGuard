@@ -184,3 +184,4 @@
 - **[2026-11-02 17:15]** `docs(presentation): construct Slide 8 & 9 detailing image preprocessing and ResNet-18 backbone`
 - **[2026-11-02 18:29]** `docs(presentation): design Slide 10 & 11 illustrating 3-class disease triage and calibrated safety`
 - **[2026-11-02 19:44]** `docs(presentation): format Slide 12 & 13 showcasing UI dashboard and clinical result visualization`
+- **[2026-11-02 20:58]** `docs(presentation): design Slide 14 covering mathematical foundations of Grad-CAM explainability`
