@@ -1,20 +1,13 @@
 @echo off
-title PulmoGuard - Offline Pneumonia Detection
-cd /d "%~dp0Chest_x_ray_Detection\Chest_x_ray_Detection"
-echo ========================================================
-echo       Starting PulmoGuard (100%% Offline Mode)
-echo ========================================================
+title PulmoGuard - AI-Based Chest X-Ray Detection System
+echo ===============================================================
+echo     PULMOGUARD: AI-BASED CHEST X-RAY DETECTION SYSTEM
+echo     Edge-Native Deep Learning Pediatric & Adult Pneumonia Triage
+echo ===============================================================
 echo.
-
-where python >nul 2>nul
-if %ERRORLEVEL% equ 0 (
-    python chest_xray.py
-) else (
-    "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" chest_xray.py
+cd /d "%~dp0"
+if exist "Chest_x_ray_Detection\Chest_x_ray_Detection\chest_xray.py" (
+    cd "Chest_x_ray_Detection\Chest_x_ray_Detection"
 )
-
-if %ERRORLEVEL% neq 0 (
-    echo.
-    echo Application exited.
-    pause
-)
+python chest_xray.py
+pause
