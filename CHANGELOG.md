@@ -199,3 +199,4 @@
 - **[2026-11-03 11:48]** `docs(readme): embed complete academic team registry with student names, USNs, and research roles`
 - **[2026-11-03 13:02]** `docs(readme): publish comprehensive step-by-step installation and offline execution guidelines`
 - **[2026-11-03 14:16]** `docs(readme): provide direct download links for presentation PPTX, report DOCX, and demo video`
+- **[2026-11-03 15:30]** `release: bump PulmoGuard to v2.0.0-production with ResNet-18, Grad-CAM, and 98.97% sensitivity`
