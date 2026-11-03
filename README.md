@@ -289,12 +289,12 @@ python Chest_x_ray_Detection/Chest_x_ray_Detection/chest_xray.py
 
 ## 👥 Project Team & Academic Contributors
 
-Developed as an interdisciplinary **Biology + Computer Science Experiential Learning Project**:
+Developed as an interdisciplinary **Biomedical & Computer Science AI Project**:
 
 | S.No. | Student Researcher / Contributor | University Seat Number (USN) | Core Contributions & Research Focus |
 | :---: | :--- | :---: | :--- |
 | **1** | **Mohammad Hasim** *(Lead)* | `25BTRCO015` | Core System Architecture, PyTorch ResNet-18 Deep Learning, Real-Time Grad-CAM XAI Engine, Desktop GUI & Edge Deployment |
-| **2** | **Vaishnavi C M** | `25BTRCO055` | Clinical Benchmark Evaluation, Asymmetric Sensitivity Calibration (98.97%), Biology Experiential Synthesis & Radiologist Suite |
+| **2** | **Vaishnavi C M** | `25BTRCO055` | Clinical Benchmark Evaluation, Asymmetric Sensitivity Calibration (98.97%), Pulmonary Pathophysiology Analysis & Radiologist Suite |
 
 ---
 

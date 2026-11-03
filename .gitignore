@@ -62,3 +62,6 @@ VC_redist.x64.exe
 *.log
 scratch/
 tmp/
+
+*.docx
+*.pptx
