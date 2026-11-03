@@ -197,3 +197,4 @@
 - **[2026-11-03 09:19]** `ci(launcher): update root and subfolder 1-click Windows batch launchers (Run_PulmoGuard.bat)`
 - **[2026-11-03 10:34]** `docs(readme): overhaul README with medical UI preview, embedded video demo, and badges`
 - **[2026-11-03 11:48]** `docs(readme): embed complete academic team registry with student names, USNs, and research roles`
+- **[2026-11-03 13:02]** `docs(readme): publish comprehensive step-by-step installation and offline execution guidelines`
