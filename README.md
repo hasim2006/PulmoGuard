@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="assets/ai_cover_hero.jpg" alt="PulmoGuard Neural Visualization" width="720" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0, 229, 255, 0.3);" />
+<img src="assets/real_chest_xray_hero.jpg" alt="Clinical Chest Radiographs - Kermany Cohort" width="820" style="border-radius: 10px; border: 2px solid #00E5FF;" />
 
 <br/><br/>
 
@@ -34,10 +34,6 @@ Watch PulmoGuard's desktop workflow in action: real-time chest X-ray ingestion, 
 
 <!-- Native HTML5 Video for GitHub Browsers -->
 <video src="assets/pulmoguard_demo.mp4" controls width="820" style="border-radius: 10px;"></video>
-
-<br/>
-
-📥 **[Download High-Definition Demo Video (MP4)](assets/pulmoguard_demo.mp4)** | 📊 **[Download Academic Presentation (20-Slide PPTX)](PulmoGuard_AI_Chest_XRay_Presentation.pptx)** | 📄 **[Download Experiential Learning Report (DOCX)](Biology_Experiential_Learning_Report_Cell_Deep_Learning.docx)**
 
 </div>
 
