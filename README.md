@@ -2,6 +2,7 @@
 
 # 🫁 PulmoGuard: AI-Based Chest X-Ray Detection System
 ### *An Edge-Native Deep Learning Framework for Rapid Pediatric & Adult Pneumonia Triage, Etiological Subtyping, and Explainable Pathology Mapping*
+#### *🎓 B.Tech 2nd Year Biology Project • Developed under the Guidance of Prof. Rohini Ma'am*
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Deep Learning](https://img.shields.io/badge/Model-PyTorch%20ResNet--18-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -287,9 +288,15 @@ python Chest_x_ray_Detection/Chest_x_ray_Detection/chest_xray.py
 
 ---
 
-## 👥 Project Team & Academic Contributors
+## 👥 Project Team & Academic Guidance
 
-Developed as an interdisciplinary **Biomedical & Computer Science AI Project**:
+Developed as an interdisciplinary **Biomedical & Computer Science AI Project** for **Biology (2nd Year B.Tech)** under the expert guidance and mentorship of **Prof. Rohini Ma'am**.
+
+### 👩‍🏫 Faculty Mentorship:
+* **Course Instructor & Faculty Guide:** **Prof. Rohini Ma'am**
+* **Department & Subject:** Biology for Engineers / Applied Biosciences (2nd Year B.Tech)
+
+### 👨‍💻 Student Researchers & Developers:
 
 | S.No. | Student Researcher / Contributor | University Seat Number (USN) | Core Contributions & Research Focus |
 | :---: | :--- | :---: | :--- |
@@ -324,5 +331,5 @@ Developed as an interdisciplinary **Biomedical & Computer Science AI Project**:
 
 <div align="center">
 <hr/>
-<b>PulmoGuard © 2026</b> • Engineered for Global Healthcare Access
+<b>PulmoGuard © 2026</b> • B.Tech 2nd Year Biology Project • Mentored by Prof. Rohini Ma'am
 </div>
