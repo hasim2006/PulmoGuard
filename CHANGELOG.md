@@ -198,3 +198,4 @@
 - **[2026-11-03 10:34]** `docs(readme): overhaul README with medical UI preview, embedded video demo, and badges`
 - **[2026-11-03 11:48]** `docs(readme): embed complete academic team registry with student names, USNs, and research roles`
 - **[2026-11-03 13:02]** `docs(readme): publish comprehensive step-by-step installation and offline execution guidelines`
+- **[2026-11-03 14:16]** `docs(readme): provide direct download links for presentation PPTX, report DOCX, and demo video`
