@@ -192,67 +192,67 @@ t_tf = t_title_box.text_frame
 t_tf.word_wrap = True
 t_tf.margin_left = t_tf.margin_top = t_tf.margin_right = t_tf.margin_bottom = 0
 tp = t_tf.paragraphs[0]
-tp.text = "PROJECT TEAM MEMBERS & USN"
+tp.text = "CORE PROJECT RESEARCHERS & CONTRIBUTORS"
 tp.font.name = "Segoe UI"
 tp.font.size = Pt(11)
 tp.font.bold = True
 tp.font.color.rgb = C_CYAN
 
-# Team Members Column 1 (Left 3 members)
-col1_box = s1.shapes.add_textbox(Inches(1.0), Inches(3.3), Inches(2.75), Inches(2.0))
+# Researcher 1: Mohammad Hasim
+col1_box = s1.shapes.add_textbox(Inches(1.0), Inches(3.35), Inches(2.75), Inches(1.9))
 c1_tf = col1_box.text_frame
 c1_tf.word_wrap = True
 c1_tf.margin_left = c1_tf.margin_top = c1_tf.margin_right = c1_tf.margin_bottom = 0
 
-team_col1 = [
-    ("Mohammad Hasim", "25BTRCO015"),
-    ("Ayush Kumar", "25BTRCO008"),
-    ("Vaishnavi C M", "25BTRCO055")
-]
+p1 = c1_tf.paragraphs[0]
+p1.text = "• Mohammad Hasim (Lead)"
+p1.font.name = "Segoe UI"
+p1.font.size = Pt(11)
+p1.font.bold = True
+p1.font.color.rgb = C_WHITE
+p1.space_after = Pt(2)
 
-for idx, (name, usn) in enumerate(team_col1):
-    p_name = c1_tf.paragraphs[0] if idx == 0 else c1_tf.add_paragraph()
-    p_name.text = f"• {name}"
-    p_name.font.name = "Segoe UI"
-    p_name.font.size = Pt(10.5)
-    p_name.font.bold = True
-    p_name.font.color.rgb = C_WHITE
-    p_name.space_after = Pt(1)
-    
-    p_usn = c1_tf.add_paragraph()
-    p_usn.text = f"   USN: {usn}"
-    p_usn.font.name = "Segoe UI"
-    p_usn.font.size = Pt(9.5)
-    p_usn.font.color.rgb = C_CYAN
-    p_usn.space_after = Pt(6)
+p1_u = c1_tf.add_paragraph()
+p1_u.text = "   USN: 25BTRCO015"
+p1_u.font.name = "Segoe UI"
+p1_u.font.size = Pt(10)
+p1_u.font.bold = True
+p1_u.font.color.rgb = C_CYAN
+p1_u.space_after = Pt(4)
 
-# Team Members Column 2 (Right 3 members)
-col2_box = s1.shapes.add_textbox(Inches(3.9), Inches(3.3), Inches(2.75), Inches(2.0))
+p1_r = c1_tf.add_paragraph()
+p1_r.text = "   Core ResNet-18 Architecture,\n   Grad-CAM Engine & Offline UI"
+p1_r.font.name = "Segoe UI"
+p1_r.font.size = Pt(9)
+p1_r.font.color.rgb = C_MUTED
+
+# Researcher 2: Vaishnavi C M
+col2_box = s1.shapes.add_textbox(Inches(3.9), Inches(3.35), Inches(2.75), Inches(1.9))
 c2_tf = col2_box.text_frame
 c2_tf.word_wrap = True
 c2_tf.margin_left = c2_tf.margin_top = c2_tf.margin_right = c2_tf.margin_bottom = 0
 
-team_col2 = [
-    ("Ritika", "25BTRCO022"),
-    ("Devaprabha K D", "25BTRCO010"),
-    ("Kabila", "25BTRCO023")
-]
+p2 = c2_tf.paragraphs[0]
+p2.text = "• Vaishnavi C M"
+p2.font.name = "Segoe UI"
+p2.font.size = Pt(11)
+p2.font.bold = True
+p2.font.color.rgb = C_WHITE
+p2.space_after = Pt(2)
 
-for idx, (name, usn) in enumerate(team_col2):
-    p_name = c2_tf.paragraphs[0] if idx == 0 else c2_tf.add_paragraph()
-    p_name.text = f"• {name}"
-    p_name.font.name = "Segoe UI"
-    p_name.font.size = Pt(10.5)
-    p_name.font.bold = True
-    p_name.font.color.rgb = C_WHITE
-    p_name.space_after = Pt(1)
-    
-    p_usn = c2_tf.add_paragraph()
-    p_usn.text = f"   USN: {usn}"
-    p_usn.font.name = "Segoe UI"
-    p_usn.font.size = Pt(9.5)
-    p_usn.font.color.rgb = C_CYAN
-    p_usn.space_after = Pt(6)
+p2_u = c2_tf.add_paragraph()
+p2_u.text = "   USN: 25BTRCO055"
+p2_u.font.name = "Segoe UI"
+p2_u.font.size = Pt(10)
+p2_u.font.bold = True
+p2_u.font.color.rgb = C_CYAN
+p2_u.space_after = Pt(4)
+
+p2_r = c2_tf.add_paragraph()
+p2_r.text = "   Clinical Benchmark Evaluation,\n   98.97% Sensitivity Calibration"
+p2_r.font.name = "Segoe UI"
+p2_r.font.size = Pt(9)
+p2_r.font.color.rgb = C_MUTED
 
 # Bottom Project Highlights Card
 badge_box = s1.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(0.8), Inches(5.6), Inches(6.1), Inches(1.2))

@@ -22,18 +22,21 @@
 
 </div>
 
-## 🎬 Live Video Demonstration
+## 🎬 Live System Demonstration
 
-Watch PulmoGuard's desktop workflow in action: real-time chest X-ray ingestion, dynamic CLAHE contrast optimization, instant ResNet-18 inference, and Grad-CAM pathology localization.
+Watch PulmoGuard's clinical desktop workflow: real-time chest X-ray ingestion, dynamic CLAHE contrast optimization, sub-20ms ResNet-18 inference, negative grayscale inversion, and Grad-CAM pathology attention mapping.
 
 <div align="center">
 
-<img src="assets/demo_preview.gif" alt="PulmoGuard Live Interface Walkthrough" width="820" style="border-radius: 10px; border: 2px solid #00E5FF;" />
+<a href="assets/pulmoguard_demo.mp4">
+  <img src="assets/demo_preview.gif" alt="PulmoGuard Live Interface Walkthrough" width="820" style="border-radius: 10px; border: 2px solid #00E5FF; box-shadow: 0px 4px 20px rgba(0, 229, 255, 0.2);" />
+</a>
 
-<p><em>▲ Animated Preview: Full 70-second diagnostic session with negative inversion and Grad-CAM overlay.</em></p>
+<p><em>▲ Live High-Definition Walkthrough: Full diagnostic session with CLAHE contrast boost, negative inversion, and Grad-CAM attention mapping.</em></p>
 
-<!-- Native HTML5 Video for GitHub Browsers -->
-<video src="assets/pulmoguard_demo.mp4" controls width="820" style="border-radius: 10px;"></video>
+<p>
+  <strong>📹 Full HD Video File:</strong> <a href="assets/pulmoguard_demo.mp4"><code>assets/pulmoguard_demo.mp4</code></a> (1080p Original High-Definition Recording)
+</p>
 
 </div>
 
@@ -135,7 +138,7 @@ $$\alpha_k^c = \frac{1}{Z} \sum_{i} \sum_{j} \frac{\partial Y^c}{\partial A_{i,j
 |:---:|:---:|:---|
 | <img src="assets/bacterial_xray.jpg" width="280" /> | <img src="assets/bacterial_gradcam.jpg" width="280" /> | **Bacterial Lobar Consolidation:** Model focuses intensely on dense consolidation in the right lower lobe, confirming biological alignment. |
 | <img src="assets/viral_xray.jpg" width="280" /> | <img src="assets/viral_gradcam.jpg" width="280" /> | **Viral Interstitial Infiltrate:** Heatmap reveals bilateral diffuse activation corresponding to peribronchial interstitial markings. |
-| <img src="assets/normal_xray.jpg" width="280" /> | *(Uniform Baseline)* | **Healthy Parenchyma:** Low homogeneous activation across clear bilateral pulmonary fields. |
+| <img src="assets/normal_xray.jpg" width="280" /> | <img src="assets/normal_gradcam.jpg" width="280" /> | **Healthy Parenchyma:** Low homogeneous activation across clear bilateral pulmonary fields. |
 
 </div>
 
@@ -288,14 +291,10 @@ python Chest_x_ray_Detection/Chest_x_ray_Detection/chest_xray.py
 
 Developed as an interdisciplinary **Biology + Computer Science Experiential Learning Project**:
 
-| S.No. | Student Researcher / Contributor | University Seat Number (USN) | Role & Focus |
+| S.No. | Student Researcher / Contributor | University Seat Number (USN) | Core Contributions & Research Focus |
 | :---: | :--- | :---: | :--- |
-| **1** | **Mohammad Hasim** *(Lead)* | `25BTRCO015` | Core Architecture, ResNet-18 Training, Grad-CAM Engine |
-| **2** | **Ayush Kumar** | `25BTRCO008` | Radiologist UI Toolkit, CLAHE & Image Processing |
-| **3** | **Vaishnavi C M** | `25BTRCO055` | Clinical Benchmark Evaluation & Sensitivity Calibration |
-| **4** | **Ritika** | `25BTRCO022` | Experiential Biology Report & Cell 2018 Paper Synthesis |
-| **5** | **Devaprabha K D** | `25BTRCO010` | 20-Slide Academic Presentation & Visual Asset Curation |
-| **6** | **Kabila** | `25BTRCO023` | Batch Screening Pipeline & Clinical Diagnostic Export |
+| **1** | **Mohammad Hasim** *(Lead)* | `25BTRCO015` | Core System Architecture, PyTorch ResNet-18 Deep Learning, Real-Time Grad-CAM XAI Engine, Desktop GUI & Edge Deployment |
+| **2** | **Vaishnavi C M** | `25BTRCO055` | Clinical Benchmark Evaluation, Asymmetric Sensitivity Calibration (98.97%), Biology Experiential Synthesis & Radiologist Suite |
 
 ---
 
