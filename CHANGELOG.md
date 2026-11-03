@@ -194,3 +194,4 @@
 - **[2026-11-03 05:37]** `feat(media): extract high-quality 6-second animated GIF preview (assets/demo_preview.gif)`
 - **[2026-11-03 06:51]** `docs(assets): curate radiographic comparison gallery (Normal, Bacterial, Viral, Grad-CAM)`
 - **[2026-11-03 08:05]** `docs(assets): curate holographic neural lung cover visual (assets/ai_cover_hero.jpg)`
+- **[2026-11-03 09:19]** `ci(launcher): update root and subfolder 1-click Windows batch launchers (Run_PulmoGuard.bat)`
