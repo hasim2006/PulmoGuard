@@ -191,3 +191,4 @@
 - **[2026-11-03 01:54]** `test(presentation): verify typography, card layouts, shape coordinates, and image embeds in PPTX`
 - **[2026-11-03 03:09]** `docs(presentation): export final PulmoGuard_AI_Chest_XRay_Presentation.pptx (2.36 MB)`
 - **[2026-11-03 04:23]** `feat(media): re-encode high-definition 70-second desktop walkthrough video to MP4 (1.34 MB)`
+- **[2026-11-03 05:37]** `feat(media): extract high-quality 6-second animated GIF preview (assets/demo_preview.gif)`
