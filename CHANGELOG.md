@@ -195,3 +195,4 @@
 - **[2026-11-03 06:51]** `docs(assets): curate radiographic comparison gallery (Normal, Bacterial, Viral, Grad-CAM)`
 - **[2026-11-03 08:05]** `docs(assets): curate holographic neural lung cover visual (assets/ai_cover_hero.jpg)`
 - **[2026-11-03 09:19]** `ci(launcher): update root and subfolder 1-click Windows batch launchers (Run_PulmoGuard.bat)`
+- **[2026-11-03 10:34]** `docs(readme): overhaul README with medical UI preview, embedded video demo, and badges`
