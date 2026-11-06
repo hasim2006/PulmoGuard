@@ -7,7 +7,7 @@ on:
     branches: [ main, master ]
 
 jobs:
-  test:
+  syntax-verification:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -18,13 +18,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          if [ -f torus_v2/requirements.txt ]; then pip install -r torus_v2/requirements.txt; fi
-
-      - name: Syntax & Structure Check
+      - name: Compile & Syntax Verification
         run: |
           python -m compileall .
-          echo "Python syntax verified successfully."
+          echo "PulmoGuard Python source syntax verified successfully."
