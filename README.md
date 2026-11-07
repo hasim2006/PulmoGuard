@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🫁 PulmoGuard: AI-Based Chest X-Ray Detection System
+# PulmoGuard: AI-Based Chest X-Ray Detection System
 ### *An Edge-Native Deep Learning Framework for Rapid Pediatric & Adult Pneumonia Triage, Etiological Subtyping, and Explainable Pathology Mapping*
-#### *🎓 B.Tech 2nd Year Biology Project • Developed under the Guidance of Prof. Rohini Ma'am*
+#### * B.Tech 2nd Year Biology Project • Developed under the Guidance of Prof. Rohini Ma'am*
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Deep Learning](https://img.shields.io/badge/Model-PyTorch%20ResNet--18-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -23,7 +23,7 @@
 
 </div>
 
-## 🎬 Live System Demonstration
+## Live System Demonstration
 
 Watch PulmoGuard's clinical desktop workflow: real-time chest X-ray ingestion, dynamic CLAHE contrast optimization, sub-20ms ResNet-18 inference, negative grayscale inversion, and Grad-CAM pathology attention mapping.
 
@@ -36,14 +36,14 @@ Watch PulmoGuard's clinical desktop workflow: real-time chest X-ray ingestion, d
 <p><em>▲ Live High-Definition Walkthrough: Full diagnostic session with CLAHE contrast boost, negative inversion, and Grad-CAM attention mapping.</em></p>
 
 <p>
-  <strong>📹 Full HD Video File:</strong> <a href="assets/pulmoguard_demo.mp4"><code>assets/pulmoguard_demo.mp4</code></a> (1080p Original High-Definition Recording)
+  <strong> Full HD Video File:</strong> <a href="assets/pulmoguard_demo.mp4"><code>assets/pulmoguard_demo.mp4</code></a> (1080p Original High-Definition Recording)
 </p>
 
 </div>
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 1. [Executive Summary & Highlights](#-executive-summary--highlights)
 2. [Clinical & Biological Background](#-clinical--biological-background)
 3. [Key Architectural Innovations](#-key-architectural-innovations)
@@ -61,7 +61,7 @@ Watch PulmoGuard's clinical desktop workflow: real-time chest X-ray ingestion, d
 
 ---
 
-## ⚡ Executive Summary & Highlights
+## Executive Summary & Highlights
 
 | Feature | Technical Specification | Clinical / Operational Benefit |
 | :--- | :--- | :--- |
@@ -75,7 +75,7 @@ Watch PulmoGuard's clinical desktop workflow: real-time chest X-ray ingestion, d
 
 ---
 
-## 🔬 Clinical & Biological Background
+## Clinical & Biological Background
 
 Pneumonia is an acute lower respiratory tract infection causing intense inflammatory exudate accumulation within pulmonary alveoli. In developing economies and rural clinics, the shortage of certified radiologists often delays diagnostic confirmation by 24–48 hours, during which pediatric patients face high risks of hypoxia, sepsis, and respiratory collapse.
 
@@ -86,7 +86,7 @@ Pneumonia is an acute lower respiratory tract infection causing intense inflamma
       [Alveolar Macrophage Activation & Pro-Inflammatory Cytokines]
                                   │
                                   ▼
-   [Capillary Hyper-Permeability ➔ Fibrinous Exudate & Neutrophil Influx]
+   [Capillary Hyper-Permeability  Fibrinous Exudate & Neutrophil Influx]
                                   │
                                   ▼
        ┌──────────────────────────┴──────────────────────────┐
@@ -104,13 +104,13 @@ Pneumonia is an acute lower respiratory tract infection causing intense inflamma
 
 ---
 
-## 🧠 Key Architectural Innovations
+## Key Architectural Innovations
 
 ```
                                  PULMOGUARD PIPELINE
                                  ───────────────────
   Patient X-Ray ──► Preprocessing ──► ResNet-18 Backbone ──► Safety-Calibrated Triage
-   (DICOM/JPEG)       (224x224,          (ConvStem ➔          • Normal (P > 0.15)
+   (DICOM/JPEG)       (224x224,          (ConvStem           • Normal (P > 0.15)
                        ImageNet z)        4 ResBlocks)        • Bacterial Lobar Alert
                                                │              • Viral Infiltrate Alert
                                                ▼                         │
@@ -127,7 +127,7 @@ Pneumonia is an acute lower respiratory tract infection causing intense inflamma
 
 ---
 
-## 👁️ Explainable AI: Grad-CAM Pathology Mapping
+## ️ Explainable AI: Grad-CAM Pathology Mapping
 
 Medical artificial intelligence cannot be trusted as an opaque "black box." PulmoGuard integrates **Gradient-Weighted Class Activation Mapping (Grad-CAM)** to visually audit its predictions against human anatomical benchmarks.
 
@@ -145,7 +145,7 @@ $$\alpha_k^c = \frac{1}{Z} \sum_{i} \sum_{j} \frac{\partial Y^c}{\partial A_{i,j
 
 ---
 
-## 📊 Clinical Performance & Calibrated Safety Triage
+## Clinical Performance & Calibrated Safety Triage
 
 In acute clinical screening, **a false negative (missing a sick child) is catastrophic**, whereas a false positive merely warrants secondary clinical review. Standard classifiers apply an arbitrary 50% threshold. PulmoGuard introduces an **asymmetric decision boundary**:
 
@@ -164,7 +164,7 @@ $$\text{Flag as Acute Pathology if: } P(\text{Normal}) \le 0.15$$
 
 ---
 
-## 🖥️ Radiologist Ergonomics & UI Dashboard
+## ️ Radiologist Ergonomics & UI Dashboard
 
 PulmoGuard features an interactive desktop suite built with **PyQt5**, tailored for low-resource clinics and high-traffic emergency departments:
 
@@ -181,7 +181,7 @@ PulmoGuard features an interactive desktop suite built with **PyQt5**, tailored 
 
 ---
 
-## 🏗️ System Architecture
+## ️ System Architecture
 
 ```mermaid
 flowchart TD
@@ -223,7 +223,7 @@ flowchart TD
 
 ---
 
-## 📚 Benchmark Cohort (Kermany et al., Cell 2018)
+## Benchmark Cohort (Kermany et al., Cell 2018)
 
 PulmoGuard is validated against the peer-reviewed pediatric pneumonia cohort published in *Cell*:
 
@@ -234,7 +234,7 @@ PulmoGuard is validated against the peer-reviewed pediatric pneumonia cohort pub
 
 ---
 
-## 📖 Biomedical Research Compendium
+## Biomedical Research Compendium
 
 The [`research/`](research/) directory compiles annotated literature reviews across 23 peer-reviewed studies:
 
@@ -248,7 +248,7 @@ The [`research/`](research/) directory compiles annotated literature reviews acr
 
 ---
 
-## 🚀 Offline Quickstart & 1-Click Launcher
+## Offline Quickstart & 1-Click Launcher
 
 ### Option A: 1-Click Desktop Launcher (Recommended)
 1. Navigate to the project root directory.
@@ -266,7 +266,7 @@ python chest_xray.py
 
 ---
 
-## 📦 Installation & Requirements
+## Installation & Requirements
 
 To set up PulmoGuard in a fresh environment:
 
@@ -288,15 +288,15 @@ python Chest_x_ray_Detection/Chest_x_ray_Detection/chest_xray.py
 
 ---
 
-## 👥 Project Team & Academic Guidance
+## Project Team & Academic Guidance
 
 Developed as an interdisciplinary **Biomedical & Computer Science AI Project** for **Biology (2nd Year B.Tech)** under the expert guidance and mentorship of **Prof. Rohini Ma'am**.
 
-### 👩‍🏫 Faculty Mentorship:
+### ‍ Faculty Mentorship:
 * **Course Instructor & Faculty Guide:** **Prof. Rohini Ma'am**
 * **Department & Subject:** Biology for Engineers / Applied Biosciences (2nd Year B.Tech)
 
-### 👨‍💻 Student Researchers & Developers:
+### ‍ Student Researchers & Developers:
 
 | S.No. | Student Researcher / Contributor | University Seat Number (USN) | Core Contributions & Research Focus |
 | :---: | :--- | :---: | :--- |
@@ -305,7 +305,7 @@ Developed as an interdisciplinary **Biomedical & Computer Science AI Project** f
 
 ---
 
-## ⚠️ Limitations & Responsible Medical Use
+## ️ Limitations & Responsible Medical Use
 
 * **Decision-Support Scope:** PulmoGuard is designed strictly as an assistive second-opinion screening and educational system. It does **NOT** replace certified radiologists or attending physicians.
 * **Mandatory Clinical Correlation:** X-ray findings must always be correlated with patient medical history, physical auscultation (crackles/wheezing), pulse oximetry ($SpO_2$), and complete blood counts (CBC).
@@ -313,7 +313,7 @@ Developed as an interdisciplinary **Biomedical & Computer Science AI Project** f
 
 ---
 
-## 📝 Academic Citation
+## Academic Citation
 
 ```bibtex
 @article{kermany2018identifying,
